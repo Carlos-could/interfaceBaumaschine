@@ -1,8 +1,6 @@
 package baumaschinen;
 
-interface Fahrbar {
-    public abstract double getMaxGeschwindigkeit();
-}
+
 
 public abstract class Bagger extends Baumaschine {
 
